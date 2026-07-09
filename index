@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html>
+<title> The 7H Website </title>
+<link rel="stylesheet" href="style.css">
+<script src="script.js"></script>
+<link rel="icon" type="image/x-icon" href="icon.png">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" 
+          content="width=device-width, initial-scale=1.0">
+</head>
+
+<body>
+  
+        <div id="container">
+            <div id="headerArea">
+                <div id="header"></div>
+                <nav id="navbar" style="margin-bottom: 10px;">
+                    <ul>
+                      <li><a href="index.html"><h1>Home</h1></a></li>
+                        <li><a href="my hobbies list.html"><h1>Recent Work</h1></a></li>
+                        <li><a href="about.html"><h1>About Me</h1></a></li>
+                    </ul>
+                </nav>
+            </div>
+
+            
+            <div id="flex">
+                <aside id="leftSidebar" style="margin-bottom: 10px;">
+                    <h2>Rice Frog Handsewing Project</h2>
+                    <div class="box">
+                        <p>Hey, you! yes, you. You NEED a rice frog. <br><br>
+                        
+                            Instructions to make your own rice frog are <a href="rice frog.html">here!</a></p>
+                        
+                    </div>
+                    <br>
+                    
+                    <!--click counter in progress
+                    <div>
+                        <button type="button">Click Me!</button>
+                        <p>Number of Clicks:</p> <span id="counter">0</span>
+                        <p>(you know you want to)</p>
+                        <script src="index.js"></script>
+                    </div>-->
+                    
+                </aside>
+
+                <main>
+                    <h2>Welcome to my 7Hobbies!</h2>
+                
+                                    <p>Within this website, you will find examples of my work and learn a little about me along the way.
+                                         If you like any of my pieces and want to reach out, you can contact me on Instagram <i>@seven.hobbies</i>.</p> 
+                                    <p>I did code this website myself, so there may be some wacky pages. I would also recommend viewing this on a desktop computer or laptop instead of a smaller screen.</p>
+                                    <h2> Anyway, feel free to explore!</h2>
+                                    
+                                    <div class="row">
+                                    <div class="column">
+                                        <a href="rice frog.html"><img src="fiber art.png" alt="Fiber Art" style="width:75px"></a>
+                                    </div>
+                                    <div class="column">
+                                        <a href="rice frog.html"><img src="sewing.png" alt="Sewing" style="width: 75px"></a>
+                                    </div>
+                                    <div class="column">
+                                        <a href="rice frog.html"><img src="painting.png" alt="Painting" style="width:75px"></a>
+                                    </div>
+                                    </div>
+
+                                    <p>Here is a little website directory for you :)</p>
+                                    <ul>
+                                    <li><a href="index.html">Home Page </a></li>
+                                    <li><a href="my hobbies list.html">My Portfolio</a></li>
+                                    <li><a href="about.html">About Me</a></li>
+                                    <li><a href="rice frog.html">DIY Rice Frog Tutorial</a></li>
+                                    <li><a href="collage poems.html">Collage Poems</a></li>
+
+                                    </ul>
+                                    <p>Oh! And one last thing, if you have any questions or comments, please reach out to me via email (sevenhobbies@outlook.com) or via Instagram @seven.hobbies</p>
+                                    
+                                
+                                  
+                                  
+                                    
+                
+                
+                
+                                </main>
+                <aside id="rightSidebar" style="margin-bottom: 10px;">
+                    <h2>Want to tell me I'm doing a good job?</h2>
+                    <p> you could totally send me an email!
+                       (seven.hobbies<br>@outlook.com)
+                    </p>
+
+                    <br> <hr> <br>
+                    <div class="box">
+                        <p>Sneak Peek of my recent <a href="my hobbies list.html">work</a></p>
+                    
+                    </div>
+                    
+                
+                </aside>
+            </div>
+            <footer id="footer"><h3>Yippee! You've found the bottom of my website! Thank you so much for reading!!!</h3></footer>
+        </div>
+        
+      
+</body>
+</html>
+
+
+
